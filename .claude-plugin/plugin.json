@@ -1,0 +1,14 @@
+{
+  "name": "stock-briefing",
+  "version": "1.0.0",
+  "description": "한국·미국 증시 일일 브리핑 자동화 플러그인. 한국경제(Claude for Chrome)와 네이버 뉴스(MCP)에서 병렬로 정보를 수집하고, 교차 검증한 뒤 초보자도 이해할 수 있는 .docx 보고서를 생성합니다. 선택적으로 카카오톡 요약 전송도 지원합니다.",
+  "author": {
+    "name": "Hugh Kim",
+    "email": "hughkim0411@gmail.com"
+  },
+  "keywords": [
+    "stock", "market", "korea", "us-market", "kospi", "kosdaq",
+    "briefing", "finance", "증시", "주식", "코스피"
+  ],
+  "license": "MIT"
+}
